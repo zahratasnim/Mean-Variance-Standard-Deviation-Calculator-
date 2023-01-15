@@ -31,6 +31,7 @@ int main(){
         count= count +1;
         num[i] = atoi(row);
         i++;
+        
     }
 
       
